@@ -11,9 +11,7 @@ header{
     width: 12%;
 }
 
-.menu{
-   
-}
+
 
 .texto-principal {
     margin-right: 20%; 
@@ -44,7 +42,7 @@ p {
 .lista{
     font-size: 25px;
     padding: 10px;
-    text-decoration-line: underline;
+    text-decoration-line: none;
     font-family: 'Akronim', cursive;
 }
 
@@ -71,10 +69,7 @@ p {
     position: absolute;
 }
 
-.itens {
-	color: blue;
-	text-decoration: underline;
-}
+
 
 nav{
     
